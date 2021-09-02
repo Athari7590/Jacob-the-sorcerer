@@ -12,7 +12,7 @@ public class NumberWizard : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-        Debug.Log("Welcome to number wizard, yo");
+        Debug.Log("Welcome to number wizard, Kkt");
         Debug.Log("Pick a number, don't tell me what it is...");
         Debug.Log("The highest number you can pick is: " + max);
         Debug.Log("The lowest number you can pick is: " + min);
